@@ -39,5 +39,15 @@ C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Ge
 C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Geolocalizacion\Geolocalizacion.Droid\bin\Debug\Plugin.Permissions.dll.mdb
 C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Geolocalizacion\Geolocalizacion.Droid\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
 C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Geolocalizacion\Geolocalizacion.Droid\obj\Debug\android\bin\Geolocalizacion.Geolocalizacion.apk
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Geolocalizacion\Geolocalizacion.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Geolocalizacion\Geolocalizacion.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Geolocalizacion\Geolocalizacion.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Geolocalizacion\Geolocalizacion.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Geolocalizacion\Geolocalizacion.Droid\bin\Debug\Xamarin.Forms.Maps.Android.dll
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Geolocalizacion\Geolocalizacion.Droid\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Geolocalizacion\Geolocalizacion.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Geolocalizacion\Geolocalizacion.Droid\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Geolocalizacion\Geolocalizacion.Droid\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Geolocalizacion\Geolocalizacion.Droid\bin\Debug\Xamarin.Forms.Maps.xml
 C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Geolocalizacion\Geolocalizacion.Droid\obj\Debug\Geolocalizacion.Droid.dll.mdb
 C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Geolocalizacion\Geolocalizacion.Droid\bin\Debug\Geolocalizacion.Droid.dll.mdb

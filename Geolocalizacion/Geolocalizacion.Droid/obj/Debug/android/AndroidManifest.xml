@@ -8,6 +8,7 @@
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
   <application android:label="Geolocalizacion" android:name="md5328a944e3605a3b498f3fecbb8eeb980.MainApplication" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
+    <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
     <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="Geolocalizacion" android:name="md5328a944e3605a3b498f3fecbb8eeb980.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />

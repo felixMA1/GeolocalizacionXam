@@ -5,7 +5,6 @@ C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Ge
 C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Geolocalizacion\Geolocalizacion\bin\Debug\Xamarin.Forms.Core.xml
 C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Geolocalizacion\Geolocalizacion\bin\Debug\Xamarin.Forms.Xaml.xml
 C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Geolocalizacion\Geolocalizacion\obj\Debug\Geolocalizacion.csprojResolveAssemblyReference.cache
-C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Geolocalizacion\Geolocalizacion\obj\Debug\Inicio.xaml.g.cs
 C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Geolocalizacion\Geolocalizacion\obj\Debug\Geolocalizacion.dll
 C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Geolocalizacion\Geolocalizacion\obj\Debug\Geolocalizacion.pdb
 C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Geolocalizacion\Geolocalizacion\bin\Debug\Plugin.Geolocator.Abstractions.dll
@@ -14,5 +13,9 @@ C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Ge
 C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Geolocalizacion\Geolocalizacion\bin\Debug\Plugin.Geolocator.xml
 C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Geolocalizacion\Geolocalizacion\bin\Debug\Plugin.Geolocator.Abstractions.pdb
 C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Geolocalizacion\Geolocalizacion\bin\Debug\Plugin.Geolocator.Abstractions.xml
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Geolocalizacion\Geolocalizacion\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Geolocalizacion\Geolocalizacion\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Geolocalizacion\Geolocalizacion\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Geolocalizacion\Geolocalizacion\obj\Debug\Geolocalizacion.Inicio.xaml.g.cs
 C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Geolocalizacion\Geolocalizacion\obj\Debug\Geolocalizacion.dll.mdb
 C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Geolocalizacion\Geolocalizacion\bin\Debug\Geolocalizacion.dll.mdb

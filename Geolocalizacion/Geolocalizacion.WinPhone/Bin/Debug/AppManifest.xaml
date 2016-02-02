@@ -6,6 +6,9 @@
     <AssemblyPart x:Name="Plugin.Geolocator.Abstractions" Source="Plugin.Geolocator.Abstractions.dll" />
     <AssemblyPart x:Name="Plugin.Geolocator" Source="Plugin.Geolocator.dll" />
     <AssemblyPart x:Name="Xamarin.Forms.Core" Source="Xamarin.Forms.Core.dll" />
+    <AssemblyPart x:Name="Xamarin.Forms.Maps" Source="Xamarin.Forms.Maps.dll" />
+    <AssemblyPart x:Name="Xamarin.Forms.Maps.WP8" Source="Xamarin.Forms.Maps.WP8.dll" />
+    <AssemblyPart x:Name="Xamarin.Forms.Platform" Source="Xamarin.Forms.Platform.dll" />
     <AssemblyPart x:Name="Xamarin.Forms.Platform.WP8" Source="Xamarin.Forms.Platform.WP8.dll" />
     <AssemblyPart x:Name="Xamarin.Forms.Xaml" Source="Xamarin.Forms.Xaml.dll" />
     <AssemblyPart x:Name="System.Windows.Interactivity" Source="System.Windows.Interactivity.dll" />

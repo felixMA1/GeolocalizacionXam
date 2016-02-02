@@ -94,3 +94,7 @@ C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Ge
 C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Geolocalizacion\Geolocalizacion.WinPhone\Bin\Debug\Plugin.Geolocator.xml
 C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Geolocalizacion\Geolocalizacion.WinPhone\Bin\Debug\Plugin.Geolocator.Abstractions.pdb
 C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Geolocalizacion\Geolocalizacion.WinPhone\Bin\Debug\Plugin.Geolocator.Abstractions.xml
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Geolocalizacion\Geolocalizacion.WinPhone\Bin\Debug\Xamarin.Forms.Maps.dll
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Geolocalizacion\Geolocalizacion.WinPhone\Bin\Debug\Xamarin.Forms.Maps.WP8.dll
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Geolocalizacion\Geolocalizacion.WinPhone\Bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\Alumno\Documents\Visual Studio 2015\Projects\Xamarin\Geolocalizacion\Geolocalizacion\Geolocalizacion.WinPhone\Bin\Debug\Xamarin.Forms.Maps.xml
