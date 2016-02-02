@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Geolocalizacion.Inicio">
+  <StackLayout>
+    <Label x:Name="TxtLat" BackgroundColor="Silver" TextColor="Purple"></Label>
+    <Label x:Name="TxtLon" BackgroundColor="Silver" TextColor="Purple"></Label>
+    <Button Text="¿Dónde estoy?" Clicked="Button_OnClicked"></Button>
+  </StackLayout>
+
+</ContentPage>
