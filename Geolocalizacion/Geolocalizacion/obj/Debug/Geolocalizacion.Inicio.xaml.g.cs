@@ -23,10 +23,14 @@ namespace Geolocalizacion {
         private global::Xamarin.Forms.Label TxtLon;
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Maps.Map Mapa;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             this.LoadFromXaml(typeof(Inicio));
             TxtLat = this.FindByName<global::Xamarin.Forms.Label>("TxtLat");
             TxtLon = this.FindByName<global::Xamarin.Forms.Label>("TxtLon");
+            Mapa = this.FindByName<global::Xamarin.Forms.Maps.Map>("Mapa");
         }
     }
 }
